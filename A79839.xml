@@ -1,0 +1,253 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A short and full vindication of that sweet and comfortable ordinance, of singing of Psalmes. Together with some profitable rules, to direct weak Christians how to sing to edification. And a briefe confutation of some of the most usual cavils made against the same. Published especially for the use of the Christians, in and about the town of Wramplingham in Norf. for the satisfaction of such, as scruple the said ordinance, for the establishment of such as do own it, against all seducers that come amongst them; and for the instruction of all in general, that they may better improve the same to their spiritual comfort and benefit. / By Io. Clapham, M.A. and minister of Christ there.</title>
+            <author>Clapham, Jonathan.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1656</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79839</idno>
+            <idno type="STC">Wing C4410</idno>
+            <idno type="STC">Thomason E896_8</idno>
+            <idno type="STC">ESTC R206682</idno>
+            <idno type="EEBO-CITATION">99865797</idno>
+            <idno type="PROQUEST">99865797</idno>
+            <idno type="VID">118048</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79839)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118048)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 135:E896[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A short and full vindication of that sweet and comfortable ordinance, of singing of Psalmes. Together with some profitable rules, to direct weak Christians how to sing to edification. And a briefe confutation of some of the most usual cavils made against the same. Published especially for the use of the Christians, in and about the town of Wramplingham in Norf. for the satisfaction of such, as scruple the said ordinance, for the establishment of such as do own it, against all seducers that come amongst them; and for the instruction of all in general, that they may better improve the same to their spiritual comfort and benefit. / By Io. Clapham, M.A. and minister of Christ there.</title>
+                  <author>Clapham, Jonathan.</author>
+               </titleStmt>
+               <extent>[3], 4, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>Printed, anno Dom. 1656.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Page 2 misnumbered 4.</note>
+                  <note>Annotation on Thomason copy: "Decemb. 9".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Psalms (Music) --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118048:1" rendition="simple:additions"/>
+            <p>A ſhort and full VINDICATION Of that ſweet and Comfortable ORDINANCE, Of ſinging of Pſalmes.</p>
+            <p>Together with ſome profitable Rules, to di<g ref="char:EOLhyphen"/>rect weak Chriſtians how to ſing to edification.</p>
+            <p>And a briefe Confutation of ſome of the moſt uſual cavils made againſt the ſame.</p>
+            <p>Publiſhed eſpecially for the uſe of the Chriſtians, in and about the Town of <hi>Wramplingham</hi> in <hi>Norf.</hi> for the ſatisfaction of ſuch, as ſcruple the ſaid Ordinance, for the eſtabliſhment of ſuch as do own it, againſt all Seducers that come amongſt them; and for the inſtruction of all in general, that they may better improve the ſame to their ſpiritual com<g ref="char:EOLhyphen"/>fort and benefit.</p>
+            <p>By <hi>Io. Clapham,</hi> M. A. and Miniſter of Chriſt there.</p>
+            <q>
+               <bibl>1 Cor. 14.15.</bibl>
+               <p>I will ſing with the Spirit, and I will ſing with underſtanding alſo.</p>
+            </q>
+            <p>
+               <add>Decemb. 9</add> 
+               <hi>LONDON,</hi> Printed, <hi>Anno Dom.</hi> 1656.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:118048:2"/>
+            <head>To the Reader.</head>
+            <opener>
+               <salute>REader,</salute>
+            </opener>
+            <p>I deſire thee to take notice, that this ſhort Vindication of that pre<g ref="char:EOLhyphen"/>tious Ordinance of ſinging of Pſalms, was not intended by me for the Preſs, but was tranſcribed for the private ſatisfaction of my neighbour, <hi>Ca. I.L.</hi> which my relation to him engaged me to endeavour. For having ſome conteſt with him about this Ordinance, he deſired my Arguments for the ſame, and promiſed me before ſeveral witneſſes, if he were not ſatisfied therwith, to give me an anſwer under his own hand. But inſtead thereof, my Papers were given to ſome of thoſe perſons commonly called Quakers, and part of them were printed without my knowledge and conſent (the other part being left out) and an anſwer framed thereto by two of them, viz. <hi>Chr. Atkinſon,</hi> and <hi>George Whitehead,</hi> which I think no rational man could have taken for an anſwer to my Arguments, if they had not ſo called it in their Papers.</p>
+            <p>Reader, it is not my deſire to have any conteſt with this generation of men, as having found them by ſufficient experience (ſuch as the Apoſtle, <hi>2 Theſ. 3.2.</hi> ſpeaks of, viz.) abſurd and unreaſonable men; ſuch as are not worthy to have place amongſt men, being more like bruits then men, whom no reaſon will ſatisfy; The word the Apoſtle there uſeth, is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and ſignifies men of no ſetled abode, vagabond perſons, abſurd fellowes, compact of meer incongruities, which how fit<g ref="char:EOLhyphen"/>ly it agrees to them, I leave to thy deſcerning: Only I requeſt of thee (Chriſtian Reader) thy prayers that we may be delivered from ſuch abſurd and unreaſon<g ref="char:EOLhyphen"/>able men.</p>
+            <p>If any boaſt, that the reaſon why I did not anſwer them, was becauſe I could not, and ſo impute it to the weakneſs of the cauſe I maintain, and make it a tem<g ref="char:EOLhyphen"/>ptation to any of my neighbours to caſt off this Ordinance. I here declare.</p>
+            <p n="1">
+               <hi>1.</hi> I have with utmoſt diligence and impartiality, weighed what might be worthy the name of an anſwer in their papers, &amp; laying aſide all their abſurd non-ſenſe, vain repetitions, fooliſh impertinencies, and wicked railings, (with which this, and all other their papers (that I have ſeen) are ſtuffed) I cannot e<g ref="char:EOLhyphen"/>ſpie any thing that looks like an Argument againſt ſinging, except it be that they do often, even in every page, over and over again in ſome pages, <hi>uſque ad nauſeam,</hi> urge the unfitneſſe of ſinging of <hi>Davids</hi> conditions, and cavil againſt profane perſons ſinging with us, both which I had ſufficiently anſwered in the latter part of my vindication; but they would not print it with the reſt of the Ar<g ref="char:EOLhyphen"/>guments, leſt (peradventure) theſe their ſimple cavils being removed, they ſhould have had nothing to have ſtumbled the weakeſt reader, and ſo their folly ſhould be made manifeſt to all.</p>
+            <p n="2">
+               <hi>2.</hi> I judge it not wiſdom to meddle with ſuch irrational men, from whom a man can expect no reaſons but railings, no anſwers but accuſations; one had as good deal with thoſe mad men of Bedlam, as with men mad with error &amp; ſtrong deluſions: upon this account I have declined to deal with them; only the firſt time when they came to this Town, I went to oppoſe them (judging it my duty) but when I found them ſuch abſurd, &amp; unreaſonable men, I preſently turned my
+<pb facs="tcp:118048:2"/> back upon them, although thoſe that were deluded by them, did boaſt (oh the miſery of being given up to deluſions!) that it was becauſe I could not an<g ref="char:EOLhyphen"/>ſwer them. And ſince that time being reviled in the publick Aſſembly, and curſed, I have departed with ſilence, not replying, as men uſe to depart from angry dogs that bark at them, and not regard them; and lately have per<g ref="char:EOLhyphen"/>mitted them to affixe their revilings againſt me, upon the Market Croſſe, rather then I would condeſcend to anſwer a ſimple paper ſent to me, conſiſting of <hi>23.</hi> Quaeries, with this threatning annexed [That if I would not an<g ref="char:EOLhyphen"/>ſwer them, I ſhould be ſet upon the Croſs] This (Reader) is the cuſtom of thoſe Rabſhakehs whoſe trade is to raile and revile; and therefore what ingenious man can fault me, if I refuſe to deal with ſuch bawling creatures.</p>
+            <p n="3">
+               <hi>3.</hi> I have ſeveral times offered my neighbour aforeſaid, That I would ſhew ſo much reſpect to him, that if he aſſerted any of their opinion; I would give him my Arguments in writing under my hand, for vindication of the Truth, and confutation of errors, provided he would anſwer them under his hand, and I would allow him liberty to adviſe with as many as he plea<g ref="char:EOLhyphen"/>ſed, (himſelf owning the anſwer) but as for thoſe men, I judged them ſuch as were not reſponſible for reaſon or repute, and therefore it would be but a ſcandal for me to deal with them.</p>
+            <p n="4">
+               <hi>4.</hi> I conceive it the beſt way to remove their cavils, and to ſatisfie the ſcrupulous Reader, to print over my Arguments entirely by themſelves (part of which only were printed in their books) and not at all to meddle with them, there being ſufficient (I hope) in theſe Arguments, to vindicate the truth, and to ſilence their objections: Only I deſire of the Lord, to give thee an heart to ſubmit to what Scripture evidence is held forth in them, or elſe all that I can ſay, will not give thee ſatisfaction, and alſo to help thee to improve theſe brief Rules laid down, that thou mayeſt ſing more with underſtanding for the future. For let me tell thee what my obſervation is, the chief cauſe why ſo many ſcruple or deny this Ordinance, is, their own ignorance, nor having yet learned the right uſe thereof, how to ſing under<g ref="char:EOLhyphen"/>ſtandingly, and to edification; the more knowing and godly ſort of Chriſti<g ref="char:EOLhyphen"/>ans being able witneſſes by their own experience, That it is a moſt excellent and heavenly Ordinance. Reader, I ſhall detain thee no longer in the porch, only (ſeeing it is the will of God to make this diſcourſe publick) I ſhall pray that his bleſſing may be with it to make it profitable.</p>
+            <closer>
+               <dateline>From my ſtudy, <date>March 26. 1654/5.</date>
+               </dateline>
+               <signed>I am, thine in Chriſt <hi>J. C.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:118048:3"/>
+            <head>Arguments to prove, that Singing of Pſalms is a Goſpel Ordinance, and a part of Divine Worſhip to be uſed in Goſpel times.</head>
+            <p>SInging of Pſalms was once an ordinance of God in the Church, and a part of Divine Worſhip. And (1) was never repealed un<g ref="char:EOLhyphen"/>der the Goſpel. (2) Nor was of a typical nature and uſe, as were the Ceremonies, and ſo to ceaſe with them. (3) But ever reckoned amongſt moral and perpetual duties; as, Prayer, and Hearing of the Word. See <hi>Pſ.</hi> 95.1, 2, 6, 7. (4) Such a duty as the very light in all men taught them to practice, witneſſe the cuſtome of all Nations (for which, ſee <hi>Goodwins</hi> Rom. Antiq. and read <hi>Homers</hi> Hymns, <hi>Horace's</hi> Odes) which ſheweth it to be of an univerſal and perpetual obligation; Therefore it contiues an Ordinance of God ſtill, as well as prayer, and hearing of the Word, and ſhould not be aboliſhed under the Goſ<g ref="char:EOLhyphen"/>pell.</p>
+            <p>
+               <hi>Arg.</hi> 2. The Propheſies in Scripture, that foretel the ſtate of the Church in the New Teſtament, do ſpeak of Pſalms to be uſed, as a part of Gods worſhip then, <hi>Pſal</hi> 98.1, 2. <hi>Pſal.</hi> 100.1, 2. <hi>Pſ.</hi> 108.1, 2, 3. where mention is made of the Gentiles when converted, ſinging Pſalms to God. So <hi>Rom.</hi> 15.9. See <hi>Iſa.</hi> 26.1. and 35.10. <hi>Rev.</hi> 14.13. and 15.3.</p>
+            <p>
+               <hi>Arg.</hi> 3. It hath been a duty practiſed, not only in the time of the Law, but by the people of God under the Goſpel. Under the Law we have the Songs of <hi>Moſes, Deborah,</hi> and <hi>Barak,</hi> of <hi>David</hi> the ſweet ſing<g ref="char:EOLhyphen"/>er of <hi>Iſrael;</hi> of <hi>Solomon,</hi> who compoſed to the number of 1005. ſongs; of <hi>Aſaph</hi> and <hi>Heman,</hi> of <hi>Habbakkuk, &amp;c.</hi> Under the Goſpel we read of the ſongs of <hi>Mary, Simeon, Zachary,</hi> of Chriſt and his Apoſtles, ſing<g ref="char:EOLhyphen"/>ing an Hymne after the Lords Supper, <hi>Mat.</hi> 26.30. according to the Jewiſh cuſtom, who ſung ſome of <hi>Davids</hi> Pſalmes, the night wherein the Paſſeover was eaten (as thoſe who are skilled in their cuſtomes, write) We read of <hi>Paul</hi> and <hi>Silas,</hi> Act. 16.25. ſinging in Priſon. Of Pſalms uſed in the Church of <hi>Corinth,</hi> 1 <hi>Cor.</hi> 14. and in primitive times, before Antichriſtian Apoſtacy, it was commonly practiſed; as <hi>Philo, Tertul. Juſt. Mart. Chryſoſt.</hi> teſtifie; yea the very Heathen took notice of this practiſe amongſt the Chriſtians, and write of it. <hi>Pliny</hi> in his letter to <hi>Trajan</hi> the Emperour, writes of the Chriſtians <hi>Hymnos antelu<g ref="char:EOLhyphen"/>cannos,</hi>
+               <pb n="4" facs="tcp:118048:3"/> morning ſongs or Pſalmes, according to <hi>Davids</hi> practice, <hi>early will I praiſe thee, &amp;c.</hi>
+            </p>
+            <p>
+               <hi>Arg</hi> 4. If all this ſuffice not, know further, there is expreſſe Scrip<g ref="char:EOLhyphen"/>ture command (as well as example) for this duty of ſinging of Pſalms, <hi>Epheſ.</hi> 5.18, 19. Be not drunk with wine, wherein is exceſſe, but be filled with the Spirit, ſpeaking to your ſelves in Pſalmes, hymnes, and ſpiritual ſongs, ſinging, &amp;c. where the Apoſtle alluding to the cuſtom that drunkards have, when they are filled with wine, they have their ſongs: So when Chriſtians are filled with the wine of the ſpirit, they ſhould have their ſpiritual ſongs, Pſalms and hymnes. The Hebrewes had three words to divide <hi>Davids</hi> Pſalms into, <hi>Sherim, Tehillim, Mizmorim,</hi> anſwerable whereto, the Apoſtle calls them Pſalms, hymns, and ſpiritual ſongs. So <hi>Col.</hi> 3.16. in Pſalmes, hymnes, and ſpiritual ſongs, ſinging, &amp;c. And <hi>Jam.</hi> 5.13. <hi>If any be afflicted let him pray, if any be merry, let him ſing Pſalmes.</hi> It's ſpoken generally, if any, &amp;c. let him ſing; not that it is unlawful to ſing at other times, for then it might be argued as well, its not lawful to pray but when ſad; but mirth is the moſt proper ſeaſon for ſinging: In other places we read of ſinging when ſad, as <hi>David</hi> often, and Chriſt a little before his ſufferings, when his heart was ſorrowful; and <hi>Paul</hi> and <hi>Silas,</hi> when in priſon. See <hi>Pſ.</hi> 102. title. Thus we have expreſs command for it.</p>
+            <p>
+               <hi>Arg.</hi> 5. There are ſeveral rules given in the New Teſtament, di<g ref="char:EOLhyphen"/>recting how to ſing aright, as 1 <hi>Cor.</hi> 14. with the ſpirit, and with un<g ref="char:EOLhyphen"/>derſtanding, and <hi>Col.</hi> 3. with grace in our hearts, which directions were needleſſe, if it were no Goſpel-duty.</p>
+            <p>
+               <hi>Arg.</hi> 6. Much profit and benefit may be had, by the right uſing of this Ordinance; there's an efficacy in it, to lift up the heart more, and elevate it in Gods praiſes; an holy delight it brings to the ſoule in God; therein is a more deliberate and diſtinct meditation of Gods word and works, then when we read or hear, a more ſolemn profeſſion of God, and of his praiſes; mutual edification, <hi>Col.</hi> 3. and provocati<g ref="char:EOLhyphen"/>on to rejoyce in God, as drunkards by their ſongs, ſtir up carnal and ſinful mirth, ſo theſe help ſpiritual joy, to which alludes the Apoſtle, <hi>Eph.</hi> 3.18, 19.</p>
+            <p>Theſe Arguments being ſo clear and cogent, might ſilence all objecti<g ref="char:EOLhyphen"/>ons; yet theſe things I find moſt commonly urged againſt this duty, to which I briefly anſwer.</p>
+            <p>
+               <hi>Object.</hi> If ſinging be a duty, yet we ſhould not ſing <hi>Davids</hi> Pſalms, but ſuch as God gives the gift to, of making Pſalms, ſhould endite them for the Churches uſe?</p>
+            <pb n="3" facs="tcp:118048:4"/>
+            <p>
+               <hi>Anſ.</hi> This objection grants then ſinging to be a Goſpel-Ordinance, but denies the expediency of ſinging <hi>Davids</hi> Pſalmes. I ſhall therefore annexe to the former ſix Arguments, proving the warrantableneſſe of ſinging in the generall, ſix other.</p>
+            <p>
+               <hi>Arguments to prove the warrantableneſſe of ſinging</hi> Davids <hi>Pſalmes.</hi>
+            </p>
+            <p>
+               <hi>Arg.</hi> 1. The ſinging of <hi>Davids</hi> Pſalms, is no where in Scripture for<g ref="char:EOLhyphen"/>bidden; tell then a reaſon why we ſhould not ſing them, if ſinging be a duty?</p>
+            <p>
+               <hi>Arg.</hi> 2. If any Pſalmes be lawfull to be ſung, then certainly, thoſe that were inſpired by the ſpirit of God, as being moſt excellent, con<g ref="char:EOLhyphen"/>taining variety of matter, ſuiting every condition the Saints uſually are in, of a large comprehenſive ſcope, affording advantage to enlarge the thoughts and affections upon, infallible for the truths contained in them, and exceeding heavenly and ſpirituall, able to raviſh the graci<g ref="char:EOLhyphen"/>ous heart in ſinging of them.</p>
+            <p>
+               <hi>Arg.</hi> 3. Its exceeding propable, that the Pſalmes ſung by Chriſt and the <hi>Apoſtles,</hi> were <hi>Davids</hi> Pſalmes. (1) Becauſe Chriſt and the Apoſtles followed the Jewiſh cuſtome in ſinging after ſupper, as they did after the Paſſeover; and therefore its likely they did alſo intimate them in ſinging <hi>Davids</hi> Pſalmes, which the Jewes uſed to do. (2) And the rather, becauſe we read not of any other Pſalmes uſed by them, which might have been recorded by ſome of the Evangeliſts, as well as his prayer, <hi>John</hi> 17. if other Pſalmes had been uſed.</p>
+            <p>
+               <hi>Arg.</hi> 4. The Apoſtle <hi>Eph.</hi> 5. and <hi>Col.</hi> 3. where he commands ſinging of Pſalmes, doth clearly point us to <hi>Davids</hi> Pſalms, by uſing thoſe three words, Pſalmes, hymnes, and ſpirituall ſongs, which anſwer to the three Hebrew words, <hi>Shirim, Tehillim, Mizmorim.</hi> whereby <hi>Davids</hi> Pſalmes were called.</p>
+            <p>
+               <hi>Arg.</hi> 5. Where the Scripture cites any where the Pſalmes (as <hi>Act.</hi> 13.33, 35. and in other places) none queſtion but <hi>Davids</hi> Pſalmes be underſtood; why then ſhould not theſe be underſtood, when we are commanded to ſing Pſalmes?</p>
+            <p>
+               <hi>Arg.</hi> 6. How much better is it to ſing <hi>Davids</hi> Pſalmes (ſince ſinging is a duty) then Pſalmes of any private mens compoſure? the experi<g ref="char:EOLhyphen"/>ence we have in theſe times of thoſe Pſalmes, that ſome have taken on them to compoſe, and to ſing in the congregations, may eaſily per<g ref="char:EOLhyphen"/>ſwade us to preferre <hi>Davids</hi> Pſalmes before ſuch whimzies, &amp;c.</p>
+            <p>
+               <hi>Ob.</hi> But it is unlawfull to ſing with a mixed multitude, you admit ig<g ref="char:EOLhyphen"/>norant and profane perſons to ſing with you, and this is unwarranta<g ref="char:EOLhyphen"/>ble.</p>
+            <pb n="4" facs="tcp:118048:4"/>
+            <p>
+               <hi>Anſ.</hi> This objection denies not the lawfulneſs of ſinging of Pſalms in generall, nor yet of ſinging <hi>Davids</hi> Pſalms in particular; only ſcruples at ſinging with profane perſons, I ſhall therefore in the next place, add <hi>Arguments to prove the lawfulneſs of ſinging in a mixed Congregation.</hi>
+            </p>
+            <p>
+               <hi>Arg.</hi> 1. <hi>David</hi> cals on all creatures to ſing praiſes to God, <hi>Pſal.</hi> 148. and on every thing that hath breath, to praiſe the Lord, <hi>Pſal.</hi> 150. <hi>ult.</hi>
+            </p>
+            <p>
+               <hi>Arg.</hi> 2. Hath God any where forbidden their ſinging? ſhew a Text for it.</p>
+            <p>
+               <hi>Arg.</hi> 3. Hath not he rather enjoined it by the very dictate of na<g ref="char:EOLhyphen"/>ture, it being (as was before ſhewed) an homage, that the light in all men teaches to offer unto God, even as prayer, and not an inſtituted worſhip only? why then ſhould i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> not be as lawful for them to join with us in ſinging, as well as in prayer? Let them that caſt off ſinging upon this account take heed they caſt not off ere long, prayer alſo, in our Congregations.</p>
+            <p>
+               <hi>Arg.</hi> 4. Singing is not an act of Church-communion properly, as the Sacraments be, becauſe it's a duty common to all men, as before was declared; but the Sacraments hold forth viſible communion of Saints, 1 <hi>Cor.</hi> 10.16, 17. and therefore we need not be ſo ſcrupulous of our joyning with others in ſinging as in receiving the Sacrament.</p>
+            <p>
+               <hi>Arg.</hi> 5. Why ſhould any fear that mixture of wicked men in ſing<g ref="char:EOLhyphen"/>ing (who are bound to ſing Gods praiſes, as well as to pray, though they ſin in both) ſhould pollute an Ordinance more then the mixture of their own corrupt hearts? if you forbear ſinging in reſpect of the for<g ref="char:EOLhyphen"/>mer ſcruple, you ſhould rather forbear it in reſpect of the latter. But this ought not to be, and therefore not that.</p>
+            <p>
+               <hi>Arg.</hi> 6. Wicked men may read a Pſalm, give then a reaſon why they may not ſing it?</p>
+            <p>
+               <hi>Arg.</hi> 7. <hi>Moſes</hi> and the children of <hi>Iſrael</hi> joyned together in ſinging, the whole Congregation; and <hi>Miriam</hi> and all the women, <hi>Exod.</hi> 15.1, 20. and yet with many of theſe, God was not well pleaſed, their carcaſſes fell in the wilderneſſe. Now <hi>Moſes</hi> and <hi>Miriam</hi> were not offended at this mixture in ſinging, why ſhould any now?</p>
+            <p>
+               <hi>Arg.</hi> 8. All the earth are bidden ſing to the Lord, <hi>Pſal.</hi> 68.32. and 96.1. who then dare take upon them to forbid any?</p>
+            <p>
+               <hi>Ob.</hi> But ſome <hi>Pſalms</hi> you ſing, do not ſuit our conditions, is it not ab<g ref="char:EOLhyphen"/>ſurd to give to people; <hi>Davids</hi> conditions to ſing, and for them to tell God, it is ſo or ſo with them?</p>
+            <p>
+               <hi>Anſ.</hi> This objectinon doth not argue for the unlawfulneſſe of ſing<g ref="char:EOLhyphen"/>ing ſuch of <hi>Davids Pſalms,</hi> as ſuit with our condition. Therfore let ſuch wiſely make choice of ſuch <hi>Pſalms,</hi> as do ſuit their condition, and not
+<pb facs="tcp:118048:5"/> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eaſt off the duty of ſinging, altogether upon this account, ſeeing there is ſuch variety of matter in <hi>Davids</hi> Pſalms, as may ſuit every condition that the Saints uſually are in.</p>
+            <p>
+               <hi>Anſ.</hi> 2. But this objection diſcovers too much ignorance in them that make it; for we muſt not think that every Pſalme ſung, ſhould ſuite our condition exactly, no more than every Scripture read, doth it. All Scriptures are profitable for doctrine, reproof, correction, inſtruction, &amp;c. 2 <hi>Tim.</hi> 3.16. and written for our learning and comfort, <hi>Rom</hi> 15.4. and therefore all the Pſalmes. We are to meditate on what we ſing, to our edification, we may make application of it to our ſpiritual benefit, though what we ſing, ſuites not ever our preſent eſtate exactly. Now that we may ſing to edifica<g ref="char:EOLhyphen"/>tion, and with underſtanding, I ſhall in the next place lay down a few Rules of Di<g ref="char:EOLhyphen"/>rection, to help weak Chriſtians in ſinging.</p>
+            <div type="part">
+               <head>Some general rules directing weak Chriſtians how to ſing profitably.</head>
+               <p n="1">1. Some Pſalms are Laudarory, that is, containe eſpecially matter of praiſes, ſet<g ref="char:EOLhyphen"/>ting forth the praiſes of God, from the conſideration of his nature and attributes, as his power, wiſdome, holineſſe, goodneſs, juſtice, mercy, truth, &amp;c. Now in ſinging theſe Pſalmes, we ſhould get our hearts affected to love, feare, and honour this God, to truſt in him, and with our tongues ſpeak out his praiſes: or from the conſideration of his works, as creation, providence, redemption. Now we ſhould get our hearts ta<g ref="char:EOLhyphen"/>ken up with the meditation of theſe works, till al holy affections be enflamed towards him.</p>
+               <p n="2">2. Some Pſalms are <hi>Supplicatory,</hi> containing petitions for good things, either ſpi<g ref="char:EOLhyphen"/>ritual, as pardon, grace, communion with God, &amp;c. Now here we ſhould get our hearts affected with the excellency of theſe things ſo much deſired by the Saints, and with them beg the ſame bleſſing of God: Or temporal, as deliverance, protection, proviſion, &amp;c. And here we ſhould eye God as the author of theſe bleſſings, and in the want of them, pray to him for the ſame, as the Saints did.</p>
+               <p n="3">3. Some are <hi>Imprecatory,</hi> praying for judgements on enemies, and containing dire<g ref="char:EOLhyphen"/>ful imprecations, &amp;c. Now in ſinging them, we are not to wiſh the ſame curſes on our private enemies, but ſee the horrible judgements of God on ungodly men; and trem<g ref="char:EOLhyphen"/>ble at them, ſee what will be the end of wicked ungodly men, though they proſper for the preſent, and we may pray for the like judgements on the implacable enemies of Chriſt and the Church.</p>
+               <p n="4">4. Some are <hi>Euchariſtical,</hi> containing thankſgivings for mercies, private or pub<g ref="char:EOLhyphen"/>lick, temporal or ſpiritual. Now herein we may meditate how good God is to his peo<g ref="char:EOLhyphen"/>ple, how comely praiſe is for the upright, and be provoked to offer up in theſe Pſalms, thanks to God for what mercies we have received.</p>
+               <p n="5">5. Some are <hi>Doctrinal,</hi> containing inſtructions to fear God, love God, walk in the waies of God, backed with promiſes to encourage us: Or ſhewing the way of ſinners, and their ſad event, to deterius therefrom. Now in ſinging of theſe, we ſhould be pro<g ref="char:EOLhyphen"/>voked to ſhun the one, and embrace the other.</p>
+               <p n="6">6. S<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>me are <hi>Querulatory,</hi> containing the ſad complaints of the ſufferings of Chriſt, or the Chu ch, or of particular Saints. Now when we ſing theſe, we do not ever re<g ref="char:EOLhyphen"/>monſtrate our own condition, but ſhould meditate on the ſuffering<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of the Saints for our edificat on, and on the love of Chriſt to us for our comfort.</p>
+               <p>I might inſtance in all the Pſalms; (as indeed it were an excellent and profitable work, i<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſome able pen would (according to theſe general rules) give ſome directi<g ref="char:EOLhyphen"/>ons upon every particular Pſalme, to help weak Chriſtians in ſinging, it might con<g ref="char:EOLhyphen"/>duce as much to the upholding this Ord<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nance as 100 Argument.) But I do now ſtu<g ref="char:EOLhyphen"/>dy brevity. This may ſuffice to teach how to ſing other Pſalms to edification and con<g ref="char:EOLhyphen"/>ſolation. Let none therfore caſt off an Ordinance, becauſe themſelves or others have abuſed it, but learn the right uſe thereof, that they may ſanctifie Gods name therein, <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>.</p>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
